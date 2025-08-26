@@ -3,7 +3,7 @@
 # 🧮 🖩 ___ Easy C++ Template Calculator ___ 🖩 🧮
 
 A simple, console-based calculator written in **C++98** using
-**templates**.\
+**templates**.
 It supports basic arithmetic operations on multiple data types (`int`,
 `float`, `double`) and includes some fun extras like ASCII art and a
 lighthearted joke option.
@@ -96,18 +96,18 @@ You will see:
 
 2.  **Data type selection** menu:
 
-    -   `1` → Integer\
-    -   `2` → Float\
-    -   `3` → Double\
+    -   `1` → Integer
+    -   `2` → Float
+    -   `3` → Double
     -   `4` → Exit
 
 3.  **Operation selection** menu:
 
-    -   `1` → Add\
-    -   `2` → Subtract\
-    -   `3` → Multiply\
-    -   `4` → Divide\
-    -   `5` → Quit\
+    -   `1` → Add
+    -   `2` → Subtract
+    -   `3` → Multiply
+    -   `4` → Divide
+    -   `5` → Quit
     -   `6` → Joke (ASCII art)
 
 4.  **Enter two numbers** → Result is displayed.
